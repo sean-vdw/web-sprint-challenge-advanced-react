@@ -131,6 +131,6 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 4. What are the three step of creating a successful test? What is done in each phase? 
 
-  1. Arrage: involves setting up the test with variables and testing objects.
-  2. Act: we perform the actual work of the test (i.e. mimicking user interactions).
-  3. Assert: we validate the results of the test to make sure that the intended actions were successful.
+  * Arrage: involves setting up the test with variables and testing objects.
+  * Act: we perform the actual work of the test (i.e. mimicking user interactions).
+  * Assert: we validate the results of the test to make sure that the intended actions were successful.
